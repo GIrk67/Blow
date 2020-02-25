@@ -59,6 +59,7 @@ body {
     height: 1210px;
     background-color: #ffffff;
     border-radius: 10px 0 0 10px;
+    padding-bottom: 40px;
 }
 
 .inner-container p {
